@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix MySocial",
+  "description": "A vibrant social media experience featuring stories, rich media feed, interactive likes, comments, explore, and user profiles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
